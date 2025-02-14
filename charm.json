@@ -3789,6 +3789,10 @@
         "width-full": {
           "value": "100%",
           "type": "sizing"
+        },
+        "width-full-copy": {
+          "value": "100%",
+          "type": "sizing"
         }
       },
       "font-family": {

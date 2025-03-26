@@ -3789,10 +3789,6 @@
         "width-full": {
           "value": "100%",
           "type": "sizing"
-        },
-        "width-full-copy": {
-          "value": "100%",
-          "type": "sizing"
         }
       },
       "font-family": {
@@ -3932,6 +3928,12 @@
       "product-card": {
         "bg-color": {
           "value": "#F7F7F7",
+          "type": "color"
+        }
+      },
+      "other": {
+        "success": {
+          "value": "#5F8B6E",
           "type": "color"
         }
       }
